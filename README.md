@@ -3,6 +3,23 @@
 ## Objetivo: 
 Mapear os conteúdos fundamentais que uma pessoa precisa aprender para ser fluente em dados. Especificar qual a sequência aconselhável para este aprendizado.
 
+## Fontes utilizadas:
+
+* https://clarify.com.br/blog/a-importancia-de-estudar-excel-nos-dias-atuais/
+
+* https://blog.dsacademy.com.br/por-que-a-linguagem-python-e-tao-popular-em-machine-learning-e-inteligencia-artificial/
+
+* https://ebaconline.com.br/blog/o-que-e-sql
+
+* https://2comconsulting.com.br/blog/principais-linguagens-de-programacao-para-banco-de-dados-guia-completo
+
+* https://www.alura.com.br/artigos/azure?srsltid=AfmBOooMzuqvyz-jEXHQcxIIJjVE8s7O4tsxlVy8OM3XPky1Ns_62frl
+
+* https://smartconsulting.com.br/o-que-e-power-bi/
+
+* https://napratica.org.br/noticias/ferramentas-analise-de-dados
+
+  
 ## Prompts: 
 Construa um mapa de estudos necessários para uma pessoa graduada começar a estudar fundamentos de dados e se tornar fluente no assunto. Cite as ferramentas e modelos necessários, qual a sequência correta para aprendê-los. Também resuma para cada ferramenta sua importância e mostre por fim como elas se conectam no trabalho com dados. Faça também um glossário de termos técnicos utilizados.
 

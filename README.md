@@ -1,14 +1,16 @@
 # Mapa-da-fluência-em-dados para iniciantes
 
-# Objetivo: 
+## Objetivo: 
 Mapear os conteúdos fundamentais que uma pessoa precisa aprender para ser fluente em dados. Especificar qual a sequência aconselhável para este aprendizado.
 
-# Prompts: 
+## Prompts: 
 Construa um mapa de estudos necessários para uma pessoa graduada começar a estudar fundamentos de dados e se tornar fluente no assunto. Cite as ferramentas e modelos necessários, qual a sequência correta para aprendê-los. Também resuma para cada ferramenta sua importância e mostre por fim como elas se conectam no trabalho com dados. Faça também um glossário de termos técnicos utilizados.
 
-# Glossário:
-Azure: Plataforma de computação em nuvem da Microsoft que oferece mais de 200 produtos e serviços, como armazenamento, bancos de dados e inteligência artificial.
-Big Data: Termo que se refere a grandes volumes de dados que exigem tecnologias específicas (como Python e SQL) para extração, manipulação e análise.
+## Glossário:
+*Azure: Plataforma de computação em nuvem da Microsoft que oferece mais de 200 produtos e serviços, como armazenamento, bancos de dados e inteligência artificial.
+
+
+*Big Data: Termo que se refere a grandes volumes de dados que exigem tecnologias específicas (como Python e SQL) para extração, manipulação e análise.
 Business Intelligence (BI): Conjunto de estratégias e tecnologias para transformar dados brutos em insights acionáveis que ajudam líderes em decisões de negócios.
 Cloud Computing (Computação em nuvem): Fornecimento de serviços de computação (servidores, redes, software) pela internet, permitindo acessar recursos sem a necessidade de infraestrutura física própria.
 DAX (Data Analysis Expressions): Linguagem de fórmulas e expressões utilizada no Power BI para realizar cálculos avançados e análises de dados específicas.
@@ -26,7 +28,7 @@ SQL (Structured Query Language): Linguagem padrão para organizar, consultar e g
 Tabela Dinâmica (Pivot Table): Recurso do Excel que permite resumir e analisar grandes quantidades de dados de forma rápida e flexível.
 Virtualização: Tecnologia que permite emular hardware (CPU, memória) via software, criando máquinas virtuais (VMs) que funcionam de forma independente em um único servidor físico.
 
-# Resumo:
+## Resumo:
 1. Nível Fundamental: Organização e Análise Rápida
 O ponto de partida ideal é o Microsoft Excel, por ser uma ferramenta universal e a porta de entrada para a cultura de dados em diversos setores.
 Importância: É essencial para a organização e gerenciamento de dados, permitindo criar planilhas estruturadas para classificar e analisar informações rapidamente. Ele oferece ferramentas que vão de fórmulas simples a tabelas dinâmicas e gráficos, fundamentais para extrair insights iniciais e automatizar tarefas repetitivas via macros.
